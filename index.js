@@ -17,9 +17,9 @@ function closeNav() {
     var z =document.getElementById("close");
     if(x.style.display == 'block'){
         x.style.display = 'none';
-        y.style.display = 'block';
         z.style.display = 'none';
-
+        y.style.display = 'block';
+        
     }
 }
 
